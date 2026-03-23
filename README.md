@@ -141,8 +141,6 @@ Built reservation platform contributing to **3.5x booking growth**.
 
 ![visitors](https://komarev.com/ghpvc/?username=RohitBarnwal)
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![GCP](https://img.shields.io/badge/GCP-blue?logo=googlecloud)
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
