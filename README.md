@@ -139,9 +139,6 @@ Built reservation platform contributing to **3.5x booking growth**.
 
 ## GitHub Stats
 
-
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohitBarnwal&show_icons=true&theme=tokyonight)
-
 ![visitors](https://komarev.com/ghpvc/?username=RohitBarnwal)
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
