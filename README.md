@@ -28,15 +28,6 @@ My focus areas:
 
 ---
 
-# Rohit Barnwal
-
-Engineering Leader • AI Systems • Distributed Platforms  
-Gemini Ecosystem Partner • ex-Zomato • IIT Delhi
-
-I build production AI systems, distributed backend platforms, and cloud infrastructure for enterprise applications.
-
----
-
 ## 🚀 Systems I Have Built
 
 - LLM Log Intelligence Chatbot (MTTR ↓ 30%)
@@ -56,8 +47,6 @@ I build production AI systems, distributed backend platforms, and cloud infrastr
 - observability for LLM systems
 
 ---
-
-
 
 ## Tech Stack
 
@@ -131,4 +120,5 @@ https://linkedin.com/in/rohitbarnwal
 ## Contact
 
 Noida, India  
-Open to collaborations in AI, distributed systems and platform engineering.
+
+I'm open to collaborate in AI, distributed systems and platform engineering.
