@@ -28,69 +28,41 @@ My focus areas:
 
 ---
 
-## Key Work
+# Rohit Barnwal
 
-### LLM Log Intelligence Chatbot
-Enterprise log analysis chatbot integrated into DevSecOps platform.
+Engineering Leader • AI Systems • Distributed Platforms  
+Gemini Ecosystem Partner • ex-Zomato • IIT Delhi
 
-Highlights
-- Google ADK based orchestration
-- Kafka async pipelines
-- multi-source log ingestion
-- <3s p99 latency
-- ~30% MTTR reduction
+I build production AI systems, distributed backend platforms, and cloud infrastructure for enterprise applications.
 
 ---
 
-### Digital Twin AI Agent
+## 🚀 Systems I Have Built
 
-AI journaling agent with persistent memory.
-
-Tech
-
-- SentenceTransformers
-- FAISS vector database
-- Mistral LLM
-- Telegram interface
-- multimodal-ready architecture
+- LLM Log Intelligence Chatbot (MTTR ↓ 30%)
+- Digital Twin AI Agent with persistent memory
+- LLM Fact Verification Pipeline
+- OCR + LLM Document Intelligence System
+- AI-driven Seller Onboarding Platform (100k+ users)
 
 ---
 
-### LLM Fact Verification System
+## 🧠 AI Architecture Focus
 
-Evidence aware fact verification pipeline.
-
-Features
-
-- Web search integration
-- citation extraction
-- reasoning + verdict generation
-- grounded LLM responses
+- RAG pipelines
+- agent orchestration
+- vector search systems
+- async inference pipelines
+- observability for LLM systems
 
 ---
 
-### OCR + LLM Document Intelligence
 
-Pipeline for document parsing and structured extraction.
-
-Supports
-
-- resumes
-- invoices
-- academic papers
-
-Stack
-
-- OCR
-- HuggingFace models
-- FastAPI
-
----
 
 ## Tech Stack
 
 ### AI / ML
-Gemini • Mistral • HuggingFace • TensorFlow • RAG • FAISS
+Gemini • Llama • HuggingFace • TensorFlow • RAG • FAISS
 
 ### Languages
 Python • Java • TypeScript • PHP • SQL
