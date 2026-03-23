@@ -1,6 +1,6 @@
 # Rohit Barnwal
 
-Technical Lead • AI Systems • Distributed Platforms  
+Tech Lead • AI Systems • Distributed Platforms  
 Google Gemini Ecosystem Partner • IIT Delhi
 
 Building AI systems, scalable backend platforms, and cloud infrastructure for enterprise products.
@@ -139,10 +139,18 @@ Built reservation platform contributing to **3.5x booking growth**.
 
 ## GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=RohitBarnwal&show_icons=true)
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitBarnwal&layout=compact)
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohitBarnwal&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitBarnwal&layout=compact&theme=tokyonight)
+
+![visitors](https://komarev.com/ghpvc/?username=RohitBarnwal)
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![GCP](https://img.shields.io/badge/GCP-blue?logo=googlecloud)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
 ---
 
 ## Links
